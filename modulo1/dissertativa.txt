@@ -1,0 +1,8 @@
+﻿Algoritmo Multiplicação por 9
+
+
+1. Leia e armazene o número a ser multiplicado por 9.
+2. Faça a seguinte operação: o número informado menos 1 e armazene o resultado como o primeiro dígito.
+3. Faça 10 menos o número informado e armazene como o segundo dígito.
+4. Multiplique o dígito um por 10 e some com o dígito dois, armazene o resultado.
+5. Mostre na tela o resultado e finalize o programa.

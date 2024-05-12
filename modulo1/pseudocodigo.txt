@@ -1,0 +1,7 @@
+﻿1. Início;
+2. Leia n;
+3. d1 = n - 1;
+4. d2 = 10 - n;
+5. x = d1 * 10 + d2;
+6. Imprima x;
+7. Fim
