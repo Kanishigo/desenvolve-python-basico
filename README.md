@@ -1,2 +1,5 @@
 # desenvolve-python-basico
-Repositório de atividades do Projeto Desenvolve
+
+Projeto Desenvolve - Itabira
+Programação básica com Python
+PDITA-090
