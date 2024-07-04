@@ -1,7 +1,9 @@
 frase = input ("Digite uma frase: ")
 
-for vogal in frase:
-    if vogal in "aeiouAEIOU":
-        frase.replace(vogal, "*")
+frase = frase.replace("a", "*")
+frase = frase.replace("e", "*")
+frase = frase.replace("i", "*")
+frase = frase.replace("o", "*")
+frase = frase.replace("u", "*")
 
 print (frase)
